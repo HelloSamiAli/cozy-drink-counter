@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://www.lummi.ai/api/render/image/d8303cff-e0cc-43ee-90d8-e77ba56b5c3d?token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImQ4MzAzY2ZmLWUwY2MtNDNlZS05MGQ4LWU3N2JhNTZiNWMzZCIsImRvd25sb2FkU2l6ZSI6Im1lZGl1bSIsInJlbmRlclNwZWNzIjp7ImVmZmVjdHMiOnsicmVmcmFtZSI6e319fSwic2hvdWxkQXV0b0Rvd25sb2FkIjpmYWxzZSwianRpIjoidVNna1hMUzFORlZ3bDQ2MUxJOThkIiwiaWF0IjoxNzQyNDQ4ODQ5LCJleHAiOjE3NDI0NDg5MDl9.ZQRnLRKBoqBk6asZoyhbZAIOGy4kOMDy71te_8TtrxA");
+    opacity: .9;
+    background-size: cover;
+    font-family: Gill Sans;
+    font-weight: 200;
+    text-align: center;
+    height: 100vh;
+    color:  #4d1a00;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: lighter;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+
+#increment-btn {
+    background: #a86932;
+}
+
+#save-btn {
+    background: #569168;
+}
+
+.div {
+    background:   #fff2e6;
+    max-width: 90%;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 80px;
+}
